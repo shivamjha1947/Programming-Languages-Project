@@ -65,6 +65,7 @@ print("This is the list of all the sources of the Articles:")
 print()
 print(s3)  
 print()
+print()
 
 #This portion is for the Text Content of the articles
 
