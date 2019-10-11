@@ -13,6 +13,7 @@ print("The project is being submitted to: prof.Rajiv Ratn Shah")
 print("This project's function is to scrape data from The Hindu's online site.")
 print("The category of Articles whose data is benig scraped is: Technology and Sciences.")
 print("All the Data which has been scraped has been stored in the JSON format")
+print("Note: As there were not any embedded social maedia posts in the technology section of The Hindu, so there is no file related to it.")
 print()
 print()
 
@@ -65,7 +66,6 @@ print("This is the list of all the sources of the Articles:")
 print()
 print(s3)  
 print()
-print()
 
 #This portion is for the Text Content of the articles
 
@@ -83,7 +83,7 @@ print()
 print(s4)
 print()
 
-#This portion is for Image source URL
+#This portion is for Image source URL in all the articles
 for i in range(len(l3)):
     my_url = requests.get(l3[i]).text
     soup = BeautifulSoup(my_url,"lxml")
