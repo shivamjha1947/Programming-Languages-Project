@@ -7,5 +7,7 @@ This contains projects of PL lab:
 2)"Programming Languages The Hindu Scrape.py":
     This file contains just the code for the project without output for quick load.
     
-3)Rest are JSON files with the scraped data of the project.
+3)l1,l2, l3, l4, l5 are JSON files with the scraped data of the project.
+
+4)Rest are Twitter Project Files
 
