@@ -1,6 +1,7 @@
 # Programming-Languages-Project
-This contains projects of PL lab
-NewsJsonCode.py contains main code
+This REPO contains projects of PL lab
+
+NewsJsonCode.py contains main code &&
 newspost.json contains the output of above file.
 # date filter has been applied to scrape post till a specified date
 # # please read internal documentation in NewsJsonCode.py.
