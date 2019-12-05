@@ -12,16 +12,23 @@ NOTE: to use jsonXloader.py makesure that all the above mentioned files are in s
 
 Contribution:
   Nikhil: 
+  
     + threading of news scraping (n threads = n times speed )
+    
     + date filter to scrape posts till specific date
+    
     + reordering of json to display Title>Date>link>Newscontent in order.
+    
     + JsonXloader.py which gives access to further process data
+    
     + needed optimizations for time and space complexity.
     
-  Shivam Jha: 
+  Shivam Jha:
+  
     (please add your contribution here)
     
-  Deepanshu Jain: 
+  Deepanshu Jain:
+  
     (please add your contribution here)
 
     
