@@ -21,14 +21,28 @@ Contribution:
     
     + JsonXloader.py which gives access to further process data
     
-    + needed optimizations for time and space complexity.
+    + bug fixing and debugging
+    
+    
     
   Shivam Jha:
   
-    (please add your contribution here)
+    + basic code structure
+    
+    + scraping modules 
+    
+    + bug fixing and debugging
+    
+    + base template
+    
+    + scraping of data
+    
+    
     
   Deepanshu Jain:
   
-    (please add your contribution here)
+    + needed optimizations for time and space complexity.
+    
+    + Json handling and dumping
 
     
