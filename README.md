@@ -27,13 +27,15 @@ Contribution:
     
   Shivam Jha:
   
-    + basic code structure
+    + basic code structure.
     
-    + scraping modules 
+    + scraping modules. 
     
-    + bug fixing and debugging
+    + code for display of Title, Date, News Content, Images, etc.
     
-    + base template
+    + bug fixing and debugging.
+    
+    + base template.
     
     + scraping of data
     
